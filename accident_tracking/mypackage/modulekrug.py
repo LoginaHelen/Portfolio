@@ -53,15 +53,15 @@ def find_values_by_index(parametrs):
     except Exception as e:
         print('Параметр не найден', e)
 
-def add_savefig(list_parametrs, value_resample, name='par'):
+def add_savefig(list_parametrs, value_resample, name_fig='par'):
     params_str = '_'.join(str(p) for p in list_parametrs)
     if len(params_str) > 33:
         params_str = params_str[:33] + f'_and_{len(list_parametrs)-3}more'
-    filename = f'Trends_{name}_{params_str}_{value_resample}.png'
+    filename = f'Trends_{name_fig}_{params_str}_{value_resample}.png'
     plt.savefig(figures_dir/filename , dpi=150, bbox_inches='tight')
 
 #6 
-def plot_trends(data, list_parametrs, value_resample = '1h', savefig=True):
+def plot_trends(data, list_parametrs, value_resample = '1h', name_fig='par', savefig=True):
     
     """
     функция строит графики изменения заданных параметров.
@@ -90,7 +90,7 @@ def plot_trends(data, list_parametrs, value_resample = '1h', savefig=True):
         #filename = f'Trends_{params_str}_{value_resample}.png'
         #plt.savefig(figures_dir/filename , dpi=150, bbox_inches='tight')
         if savefig:
-            add_savefig(list_parametrs, value_resample)
+            add_savefig(list_parametrs, value_resample, name_fig)
         plt.show()
     except Exception as e:
         print('Параметр не найден', e)
@@ -131,7 +131,7 @@ def plot_group(data, list_parametrs, value_resample = '1h', savefig=True):
             plt.tight_layout()
         
         if savefig:
-            add_savefig(list_parametrs, value_resampleб , 'group')            
+            add_savefig(list_parametrs, value_resampleб , name_fig='group')            
         plt.show()
     except Exception as e:
         print('Параметр не найден', e)
