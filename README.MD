@@ -33,7 +33,7 @@
 
 **Стек:** `Time Series`, `Classification`, `CatBoost`, `Scikit-learn`, `Ruptures`.
 
-👉 [**Подробнее с результатами и графиками можно ознакомиться в README проекта**](accident_tracking)
+👉 [**Подробнее с результатами и графиками можно ознакомиться в README проекта**](https://github.com/LoginaHelen/accident_tracking/blob/master/README.MD)
 
 ---
 
@@ -51,7 +51,7 @@
 
 **Стек:** `EDA`, `A/B-тестирование (Stats)`, `Hypothesis Testing`, `Pandas`, `Seaborn`.
 
-👉 [**Подробнее с бизнес-выводами и графиками можно ознакомиться в README проекта**](ссылка_на_репозиторий_телекома)
+👉 [**Подробнее с бизнес-выводами и графиками можно ознакомиться в README проекта**](https://github.com/LoginaHelen/telecom-tariff-analysis/blob/master/README.MD)
 
 ---
 
