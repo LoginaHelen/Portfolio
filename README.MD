@@ -1,4 +1,4 @@
-# Привет, я Ушакова Елена
+# Здравствуйте, я Ушакова Елена
 
 ## Data Analyst / Data Scientist
 
@@ -18,7 +18,7 @@
 
 ## Мои проекты
 
-### 1. [Система раннего оповещения аварийных режимов водно-химического режима котла](https://github.com/ваш_никнейм/Portfolio/accident_tracking/)
+### 1. [Система раннего оповещения аварийных режимов водно-химического режима котла](https://github.com/LoginaHelen/accident_tracking)
 
 **Задача:** Создать систему раннего оповещения о развитии аварийных режимов на основе многомерных временных рядов SCADA-системы.
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 2. [Определение перспективного тарифа для телеком-компании](Portfolio/telecom-tariff-analysis/)
+### 2. [Определение перспективного тарифа для телеком-компании](https://github.com/LoginaHelen/telecom-tariff-analysis)
 
 **Задача:** Проанализировать поведение клиентов сотовой связи и определить, какой тариф («Smart» или «Ultra») приносит больше денег, чтобы скорректировать рекламный бюджет.
 
@@ -56,6 +56,6 @@
 ---
 
 ## Контакты
-*   **GitHub:** [Ваш профиль](https://github.com/ваш_никнейм)
-*   **Telegram:** [@ваш_никнейм](https://t.me/ваш_никнейм)
-*   **Email:** [ваша_почта@example.com](mailto:ваша_почта@example.com)
+*   **GitHub:** [Elena Ushakova](https://github.com/LoginaHelen)
+*   **Telegram:** [@LoginaHelen](https://t.me/LoginaHelen)
+*   **Email:** [ushakova.elv@yandex.ru](mailto:ushakova.elv@yandex.ru)
