@@ -1,6 +1,6 @@
 # Здравствуйте, я Ушакова Елена
 
-## Data Analyst / Data Scientist
+## Data Scientist / Data Analyst
 
 ### Обо мне
 
