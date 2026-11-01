@@ -1,0 +1,18 @@
+# Служебные папки CatBoost
+catboost_info/
+
+# Кэш Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Секреты
+.env
+
+# Системные
+.DS_Store
+Thumbs.db
